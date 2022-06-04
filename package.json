@@ -1,0 +1,22 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mektigboy/ToDoList.git"
+  },
+  "author": "mektigboy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mektigboy/ToDoList/issues"
+  },
+  "homepage": "https://github.com/mektigboy/ToDoList#readme",
+  "dependencies": {
+    "hardhat": "^2.9.7"
+  }
+}
